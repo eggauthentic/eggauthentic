@@ -1,4 +1,18 @@
 ```
+Welcome to Ubuntu 24.04.2 LTS (GNU/Linux 6.8.0-59-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+Last login: Mon Jul 13 03:14:22 2026 from 10.0.0.4
+```
+
+<details>
+<summary><code>guest@eggauthentic:~$ whoami</code></summary>
+<br>
+
+```
                          _   _            _   _    
  ___ __ _ __ _ __ _ _  _| |_| |_  ___ _ _| |_(_)__ 
 / -_) _` / _` / _` | || |  _| ' \/ -_) ' \  _| / _|
@@ -6,23 +20,17 @@
     |___/|___/                                     
 ```
 
-<details>
-<summary><code>guest@eggauthentic:~$ whoami</code></summary>
-<br>
-
-eggauthentic
-
 </details>
 
 <details>
 <summary><code>guest@eggauthentic:~$ cat status.txt</code></summary>
 <br>
 
-<3
+currently bricking things for fun
 
 </details>
 
-<details>
+<details open>
 <summary><code>guest@eggauthentic:~$ ls bios/</code></summary>
 <br>
 
