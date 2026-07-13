@@ -1,5 +1,10 @@
-## Hi
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=eggauthentic&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+
 i bricked a laptop cuz i was bored and i _love_ breaking things
+
+</div>
 
 ## other bios
 <div align="center">
@@ -14,3 +19,5 @@ i bricked a laptop cuz i was bored and i _love_ breaking things
 [![guns.lol](https://img.shields.io/badge/guns.lol-2hs-black?style=flat-square)](https://guns.lol/2hs)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=100&section=footer" />
