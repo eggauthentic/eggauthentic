@@ -3,7 +3,7 @@ i bricked a laptop cuz i was bored and i _love_ breaking things
 
 ## other bios
 ( eggauthentic )<br>
-➥ [/eggauthentic](https://guns.lol/eggauthentic) (you are here)<br>
+➥ [/eggauthentic](https://guns.lol/eggauthentic)<br>
 ( frail.lol )<br>
 ➥ [/egg](https://frail.lol/egg)<br>
 ( haunt.gg )<br>
@@ -13,8 +13,8 @@ i bricked a laptop cuz i was bored and i _love_ breaking things
 ( s.zyn )<br>
 ➥ [/s.zyn](https://guns.lol/s.zyn)<br>
 ( 0high )<br>
-➥ [/0high](https://guns.lol/0high) (riyalll)<br>
+➥ [/0high](https://guns.lol/0high)<br>
 ( frowned )<br>
 ➥ [/frowned](https://guns.lol/frowned)<br>
 ( 2hs )<br>
-➥ [/2hs](https://guns.lol/2hs) (acc real)
+➥ [/2hs](https://guns.lol/2hs)
