@@ -20,4 +20,16 @@
 
 </div>
 
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b949e,100:0d1117&height=3" />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eggauthentic/eggauthentic/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eggauthentic/eggauthentic/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/eggauthentic/eggauthentic/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" />
