@@ -12,6 +12,14 @@
 
 </div>
 
+```
+guest@eggauthentic:~$ whoami
+eggauthentic
+
+guest@eggauthentic:~$ cat status.txt
+<3
+```
+
 <img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b949e,100:0d1117&height=1" />
 
 ## other bios
@@ -34,4 +42,17 @@
 
 </div>
 
-<img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b949e,100:0d1117&height=1" />
+<div align="center">
+
+![visitors](https://komarev.com/ghpvc/?username=eggauthentic&color=161b22&style=flat-square&label=views)
+
+</div>
+
+```
+░░░▒▒▒▓▓▓████████████████████████████████████████████████████▓▓▓▒▒▒░░░
+```
+
+```
+guest@eggauthentic:~$ exit
+logout
+```
