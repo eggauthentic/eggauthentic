@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=eggauthentic&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=180&section=header&text=eggauthentic&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-i bricked a laptop cuz i was bored and i _love_ breaking things
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=FF0080&center=true&vCenter=true&width=500&lines=i+bricked+a+laptop+cuz+i+was+bored;i+love+breaking+things;check+the+other+bios+below" />
 
 </div>
 
@@ -20,4 +20,4 @@ i bricked a laptop cuz i was bored and i _love_ breaking things
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=100&section=footer" />
